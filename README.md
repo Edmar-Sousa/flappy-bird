@@ -1,8 +1,10 @@
 # Flappy Bird Clone
-<p>Flappy bird é um jogo eletronico criado em 2013 para dispositivos moveis, 
-o objetivo é controlar um passaro e desviar de canos o maximo que consegui, 
-nesse repositorio esta uma replica da ideia principal do jogo. 
-Implementado em C++ e SDL, para praticar meus conhecimentos em C++ e logica de programação.</p>
+<p>
+Flappy bird é um jogo eletrônico criado em 2013 para dispositivos moveis, 
+o objetivo é controlar um pássaro e desviar de canos o máximo que consegui, 
+nesse repositório está uma réplica da ideia principal do jogo. 
+Implementado em C++ e SDL, para praticar meus conhecimentos em C++ e lógica de programação.
+</p>
 
 
 ## Resultado
